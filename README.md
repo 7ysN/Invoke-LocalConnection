@@ -4,7 +4,7 @@
 **OS:** `Windows`
 #
 ### Usage:
-`Test-LocalConnection -UserName <username> -WordList <path to wordlist>`
+`Invoke-LocalConnection -UserName <username> -WordList <path to wordlist>`
 
 #
 ### Disclaimer
